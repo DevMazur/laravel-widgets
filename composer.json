@@ -1,7 +1,7 @@
 {
     "name": "devmazur/laravel-package",
     "description": "laravel manager packages",
-    "type": "project",
+    "type": "Library",
     "license": "MIT",
     "version": "1.0.0",
     "authors": [
