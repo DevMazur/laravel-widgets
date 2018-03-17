@@ -1,0 +1,27 @@
+{
+    "name": "devmazur/laravel-package",
+    "description": "laravel manager packages",
+    "type": "project",
+    "license": "MIT",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "Mazur Denis",
+            "email": "devmazur@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "DevMazur\\Widgets\\":"src"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "DevMazur\\Widgets\\WidgetServiceProvider"
+            ]
+        }
+    }
+}
