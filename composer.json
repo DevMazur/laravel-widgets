@@ -1,6 +1,6 @@
 {
     "name": "devmazur/laravel-package",
-    "description": "laravel manager packages",
+    "description": "Пакет для добавления виджетов в Laravel",
     "type": "Library",
     "license": "MIT",
     "version": "1.0.0",
